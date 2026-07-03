@@ -64,7 +64,6 @@ An interactive Tableau Public dashboard analyzing 5,000 e-commerce transactions 
 
 - `README.md` - This file
 - `Analysis-Findings.txt` - Detailed analysis of each visualization
-- `Dashboard-Screenshots/` - Images of dashboard visualizations
 
 ## 🎓 Skills Demonstrated
 
